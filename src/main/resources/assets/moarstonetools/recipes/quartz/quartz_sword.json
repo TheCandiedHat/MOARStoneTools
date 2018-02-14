@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " A ",
+    " I "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:quartz"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moarstonetools:quartz_sword"
+  }
+}

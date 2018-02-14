@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moarstonetools",
+  "name": "MOAR Stone Tools",
+  "description": "Tools made of (MOAR) stone.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Porkchop"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
